@@ -1,0 +1,159 @@
+Python 2.7.6 (default, Nov 10 2013, 19:24:24) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 4*5
+
+ Type in another number: 2*3
+
+ The sum of the numbers is  26
+ Their average is 13
+>>> 
+>>> 2*6
+12
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 2*6
+
+ Type in another number: 
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 2*06
+
+ Type in another number: 3*75
+
+ The sum of the numbers is  237
+ Their average is 118
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 4.5
+
+ Type in another number: 2.3
+
+ The sum of the numbers is  6.8
+ Their average is 3.4
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 2.06
+
+ Type in another number: 3.75
+
+ The sum of the numbers is  5.81
+ Their average is 2.905
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 100.6
+
+ Type in another number: -26.2
+
+ The sum of the numbers is  74.4
+ Their average is 37.2
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 0.5
+
+ Type in another number: 15.5
+
+ The sum of the numbers is  16.0
+ Their average is 8.0
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 1
+
+ Type in another number: 3
+
+ The sum of the numbers is  4
+ Their average is 2
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 1
+
+ Type in another number: 4
+
+ The sum of the numbers is  5
+ Their average is 2
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 3
+
+ Type in another number: 18
+
+ The sum of the numbers is  21
+ Their average is 10
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 4.0
+
+ Type in another number: 4
+
+ The sum of the numbers is  8.0
+ Their average is 4.0
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 3
+
+ Type in another number: 18.0
+
+ The sum of the numbers is  21.0
+ Their average is 10.5
+>>> ================================ RESTART ================================
+>>> 
+ This program will ask you to type in two numbers.
+ The program will add them & average them and
+ output the results to the screen
+
+ Type in a number: 1.0
+
+ Type in another number: 4.0
+
+ The sum of the numbers is  5.0
+ Their average is 2.5
+>>> 

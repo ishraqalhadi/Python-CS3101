@@ -1,0 +1,16 @@
+type(3)
+type `int`
+type (3.1)
+type 'float'
+type(3.0)
+type 'float'
+myint = -32
+type(myint)
+type'int'
+myfloat = 32.0
+type(myfloat)
+type 'float'
+mystery = myint * myfloat
+type(mystery)
+type 'float'
+
